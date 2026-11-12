@@ -1,0 +1,23 @@
+:root {
+  font-family: "Inter", "Segoe UI", Arial, sans-serif;
+
+  --primary: #15803d;
+  --primary-dark: #064e3b;
+  --primary-light: #16a34a;
+  --accent: #4ade80;
+
+  --background: #f4f8f5;
+  --surface: #ffffff;
+  --text: #172b21;
+  --text-secondary: #718078;
+  --border: #e2ebe5;
+
+  --success: #16a34a;
+  --danger: #dc2626;
+
+  --sidebar-width: 265px;
+  --topbar-height: 76px;
+
+  --radius: 14px;
+  --shadow: 0 4px 18px rgba(6, 78, 59, 0.06);
+}
